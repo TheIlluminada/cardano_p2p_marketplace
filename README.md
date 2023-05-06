@@ -22,7 +22,7 @@ Note - I envision the token name deriving from either the parameters of this par
 
 4) Interested buyer would like to consumate purchase.
 5) Buyer uses their preferred market interface that builds a single transaction that would require the spend of the sellers utxo, as well as their utxo that combined creates the desired transaction.  Another token would need to be generated on the buyer side (or again, their single trader token would be udpated).
-6) Because of the data in the buyers token updated, the buyers would would notify them that it has identified that a buyer has signed their end of their offered trade.
+6) Because of the data in the buyers token updated, the sellers wallet would notify them that it has identified that a buyer has signed their end of their offered trade.
 7) Buyer would then sign the same transaction on their side after verifying that the transaction is what they intended.  I would anticipate wallet makers, and known good marketplaces to also put in their own validity checks to help protect the traders.
 
 Other relavent details.
