@@ -27,6 +27,8 @@ Note - I envision the token name deriving from either the parameters of this par
 
 Other relavent details.
 
+The buyers signed tx could be placed in their token, so that the upstream sellers marketplace and complete the process.  It would just be cbor, which is written to the blockchain in the end anyways, so it doesnt create additional security risks.
+
 Since every wallet can build in this policy key, the wallets can auto detect bad tokens, and just burn them the next time a wallet is used.  This is the part that makes creating junk tokens a complete waste of time.  I may not even know you've dropped some on my wallet.  But the next time I use my wallet, I just reclaimed the ada you had bound to them.  So congrats on giving me free ada :)
 
 Metadata could be hashed by a marketplace to show proof provinence, and added as additional field on a token.
