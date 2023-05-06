@@ -29,6 +29,8 @@ Other relavent details.
 
 Since every wallet can build in this policy key, the wallets can auto detect bad tokens, and just burn them the next time a wallet is used.  This is the part that makes creating junk tokens a complete waste of time.  I may not even know you've dropped some on my wallet.  But the next time I use my wallet, I just reclaimed the ada you had bound to them.  So congrats on giving me free ada :)
 
+Metadata could be hashed by a marketplace to show proof provinence, and added as additional field on a token.
+
 Marketplaces are encouraged to bake a small fee in to each transaction.  I propose 1 ada for each side of the trade.  This will require marketplaces respecting instructions written in to a sellers trade data.  Since the seller will inevitably use the same site to finish the sale, that site can easily spot a bad market place trying to undercut or take their fee.  Speaking of which...
 
 Reputation is easy to identify.  Since everything is done on chain, its easy to see who is making good transactions, and who isnt.  Bad actors can be blacklisted from marketplaces.  Hence the places that will do the best, are the ones that actually play by the rules.
